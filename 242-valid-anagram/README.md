@@ -3,6 +3,11 @@
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 <!-- Adding Comments -->
+## Mistakes
+- return False if strings are different lengths
+
+
+
 <div class="example-block">
 <p><strong>Input:</strong> <span class="example-io">s = &quot;anagram&quot;, t = &quot;nagaram&quot;</span></p>
 
