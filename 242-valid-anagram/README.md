@@ -2,7 +2,7 @@
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-#comments
+<!-- Adding Comments -->
 <div class="example-block">
 <p><strong>Input:</strong> <span class="example-io">s = &quot;anagram&quot;, t = &quot;nagaram&quot;</span></p>
 
