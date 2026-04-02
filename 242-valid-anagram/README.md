@@ -28,9 +28,7 @@
 <p>&nbsp;</p>
 <p><strong>Follow up:</strong> What if the inputs contain Unicode characters? How would you adapt your solution to such a case?</p>
 
-<h2>Two Sum</h2>
+<h2>Anagram</h2>
 
 <!-- Revision Notes -->
-## Notes
-- Pattern: Hash Map
-- Time: O(n)
+## Mistakes
